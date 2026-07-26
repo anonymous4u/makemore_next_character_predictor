@@ -1,6 +1,6 @@
 # Character-Level Name Generator
 
-A character-level language model built entirely from scratch using NumPy. Given the previous few characters of a name, it predicts what character comes next — and by repeatedly sampling from its own predictions, it generates entirely new, plausible-sounding names it has never seen.
+A character-level language model when provided the previous few characters of a name, it predicts what character comes next and by repeatedly sampling from its own predictions, it generates entirely new, plausible-sounding names it has never seen.
 
 Trained on ~32,000 real first names.
 
